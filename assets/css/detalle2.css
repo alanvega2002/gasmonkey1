@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #fff; 
+}
+
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.navbar {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.navbar-toggler-icon {
+    border-color: rgba(255, 255, 255, 0.5); 
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+}
+
+
+.carousel-caption h5,
+.carousel-caption p {
+    color: #fff; 
+}
+
+
+.carousel-control-prev,
+.carousel-control-next {
+    color: #fff;
+}
+
+
+.btn-outline-success {
+    color: #272727;
+    border-color: #272727;
+}
+
+.btn-outline-success:hover {
+    background-color: #fff;
+    color: #000; 
+}
+
